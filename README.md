@@ -1,6 +1,7 @@
 ### DEV.F PROYECTO MÓDULO 1 "INTRODUCCIÓN A LA PROGRAMACIÓN"
-## Autor: BRUNO ALEJANDRO ORSATTI SÁNCHEZ
----
+## AUTOR: BRUNO ALEJANDRO ORSATTI SÁNCHEZ
+
+Proyecto creado por [BrunOrsatti](https://github.com/BrunOrsattiAS)
 En este repositorio encontraras los archivos relacionados al PROYECTO 1 del Módulo "Introducción a la programación" de DEV.F.
 
 A continuación se presentan los requisitos necesarios para este proyecto.
@@ -30,5 +31,16 @@ Se debe aplicar los conocimientos para crear y publicar una página web básica 
 ## PÁGINA WEB DESPLEGADA
 Para poder ver el proyecto de este repositorio desplegado, [hacer click aquí](https://brunorsattias.github.io/DEV.F_Proyecto_Modulo1/)
 
+## CLONAR REPOSITORIO
+
+Para clonar este repositorio ejecuta los comandos siguientes para acceder a la carpeta del proyecto
+```
+git clone https://github.com/BrunOrsattiAS/DEV.F_Proyecto_Modulo1
+cd DEV.F_Proyecto_Modulo1
+```
+
 ## ELEMENTOS UTILIZADOS
 En este proyecto se utilizó `HTML`
+
+## DESCRIPCIÓN GENERAL DE LA PÁGINA WEB DEL PROYECTO
+La presente página web contine

@@ -30,7 +30,7 @@ Se debe aplicar los conocimientos para crear y publicar una página web básica 
 * **Contenido Claro:** escribir contenido claro y conciso en los párrafos, utilizando listas para organizar la información cuando sea necesario.
 
 ## PÁGINA WEB DESPLEGADA
-Para poder ver el proyecto de este repositorio desplegado, [hacer click aquí](https://brunorsattias.github.io/DEV.F_Proyecto_Modulo1/)
+Para poder ver el proyecto de este repositorio desplegado, [hacer click aquí](https://brunorsattias.github.io/DEV.F_Proyecto_Modulo1/).
 
 ## CLONAR REPOSITORIO
 

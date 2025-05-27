@@ -44,4 +44,8 @@ cd DEV.F_Proyecto_Modulo1
 En este proyecto se utilizó `HTML`
 
 ## DESCRIPCIÓN GENERAL DE LA PÁGINA WEB DEL PROYECTO
-La presente página web contine...
+Esta página web es un tributo al apasionante mundo del coleccionismo de Star Wars. Aquí encontrarás un espacio sencillo pero lleno de historia, donde un fanático comparte con orgullo imágenes exclusivas de su colección privada.
+Además, ponemos a tu disposición una lista cuidadosamente detallada de las figuras que aún faltan para completar esta impresionante colección, con información valiosa para facilitar su búsqueda, e incluso enlaces directos a sitios donde podrías adquirirlas (cuando estén disponibles).
+Para los coleccionistas más entusiastas, también ofrecemos vínculos de interés a recursos especializados, ideales para quienes desean crear su propia lista o profundizar en el universo de los coleccionables.
+La web incluye un formulario para que te suscribas y recibas las últimas actualizaciones, manteniéndote siempre al día con las novedades.
+Por último, encontrarás también los enlaces a las redes sociales del autor, donde profesionales y amantes del coleccionismo comparten contenido exclusivo y se conectan con la comunidad.

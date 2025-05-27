@@ -16,7 +16,7 @@ Se debe aplicar los conocimientos para crear y publicar una página web básica 
 * **Párrafos:** usar la etiqueta _p_ para agregar texto explicativo o contenido informativo.
 * **Enlaces:** etiquetas que dirijan a otra página o recurso.
 * **Imágenes:** insertar una o más imágenes usando la etiqueta .
-* **Opcionalmente:** añadir listas _ol, ul y furmularios_ a la página _form, input, label, etc._
+* **Opcionalmente:** añadir listas _ol, ul y formularios_ a la página _form, input, label, etc._
 * **Control de Versiones:** usar git para controlar las versiones de tu código durante el desarrollo del proyecto.
 * **Repositorio en GitHub:** crear un repositorio en GitHub para alojar el proyecto.
 * **README.md:** incluir un archivo _README.md_ en el repositorio que describa brevemente el proyecto, sus características y cómo desplegarlo.

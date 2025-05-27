@@ -7,6 +7,9 @@ En este repositorio encontraras los archivos relacionados al PROYECTO 1 del Mód
 
 A continuación se presentan los requisitos necesarios para este proyecto.
 
+## PÁGINA WEB DESPLEGADA
+Para poder ver el proyecto de este repositorio desplegado, [hacer click aquí](https://brunorsattias.github.io/DEV.F_Proyecto_Modulo1/).
+
 ## OBJETIVO
 Se debe aplicar los conocimientos para crear y publicar una página web básica con HTML en _**GitHub**_. Con este proyecto se debe demostrar que se ha entendido cómo se construye una página web desde cero y cómo se organizan sus elementos clave. Así mismo se debe aplicar las habilidades adquiridas respecto al uso de _**Git**_ y _**GitHub**_ para manejar y compartir los códigos desarrollados, de la misma manera a como se realizaría en la vida real.
 
@@ -28,9 +31,6 @@ Se debe aplicar los conocimientos para crear y publicar una página web básica 
 * **Imágenes Relevantes:** usar imágenes que complementen el contenido de la página y que estén correctamente alineadas y ajustadas en tamaño.
 * **Navegación Fácil:** en caso de utilizar enlaces, asegurarse de que sean visibles y fáciles de identificar. Considerar agregar una barra de navegación si se tienen varias secciones o páginas.
 * **Contenido Claro:** escribir contenido claro y conciso en los párrafos, utilizando listas para organizar la información cuando sea necesario.
-
-## PÁGINA WEB DESPLEGADA
-Para poder ver el proyecto de este repositorio desplegado, [hacer click aquí](https://brunorsattias.github.io/DEV.F_Proyecto_Modulo1/).
 
 ## CLONAR REPOSITORIO
 

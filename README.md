@@ -43,7 +43,7 @@ En este proyecto se utilizó exclusivamente `HTML` para estructurar la página.
 
 A continuación se presenta un resumen total de las etiquetas HTML utilizadas dentro del proyecto.
 
-- Estructura básica:
+* **Estructura básica:**
 `<!DOCTYPE html>`
 `<html>`
 `<head>`
@@ -51,7 +51,7 @@ A continuación se presenta un resumen total de las etiquetas HTML utilizadas de
 `<title>`
 `<body>`
 
-- Secciones y agrupación:
+* **Secciones y agrupación:**
 `<header>`
 `<nav>`
 `<main>`
@@ -64,13 +64,13 @@ A continuación se presenta un resumen total de las etiquetas HTML utilizadas de
 `<details>`
 `<summary>`
 
-- Encabezados:
+* **Encabezados:**
 `<h1>`
 `<h2>`
 `<h3>`
 `<h4>`
 
-- Listas:
+* **Listas:**
 `<ul>`
 `<ol>`
 `<li>`
@@ -78,19 +78,19 @@ A continuación se presenta un resumen total de las etiquetas HTML utilizadas de
 `<dt>`
 `<dd>`
 
-- Texto y enlaces:
+* **Texto y enlaces:**
 `<p>`
 `<a>`
 `<strong>`
 `<em>`
 `<br>`
 
-- Imágenes y multimedia:
+* **Imágenes y multimedia:**
 `<img>`
 `<video>`
 `<source>`
 
-- Formularios:
+* **Formularios:**
 `<form>`
 `<fieldset>`
 `<legend>`

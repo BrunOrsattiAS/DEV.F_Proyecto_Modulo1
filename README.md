@@ -41,6 +41,63 @@ cd DEV.F_Proyecto_Modulo1
 ## ELEMENTOS UTILIZADOS
 En este proyecto se utilizó exclusivamente `HTML` para estructurar la página.
 
+Estructura básica:
+`<!DOCTYPE html>`
+`<html>`
+`<head>`
+`<meta>`
+`<title>`
+`<body>`
+
+Secciones y agrupación:
+`<header>`
+`<nav>`
+`<main>`
+`<article>`
+`<section>`
+`<footer>`
+`<div>`
+`<span>`
+`<hr>`
+`<details>`
+`<summary>`
+
+Encabezados:
+`<h1>`
+`<h2>`
+`<h3>`
+`<h4>`
+
+Listas:
+`<ul>`
+`<ol>`
+`<li>`
+`<dl>`
+`<dt>`
+`<dd>`
+
+Texto y enlaces:
+`<p>`
+`<a>`
+`<strong>`
+`<em>`
+`<br>`
+
+Imágenes y multimedia:
+`<img>`
+`<video>`
+`<source>`
+
+Formularios:
+`<form>`
+`<fieldset>`
+`<legend>`
+`<label>`
+`<input>` (tipos: text, email, password, submit)
+`<textarea>`
+`<button>`
+
+
 ## DESCRIPCIÓN GENERAL DE LA PÁGINA WEB DEL PROYECTO
 Esta página web es un tributo al apasionante mundo del coleccionismo de Star Wars. Aquí encontrarás un espacio sencillo pero lleno de historia, donde un fanático comparte con orgullo imágenes exclusivas de su colección privada.
 Además, ponemos a tu disposición una lista cuidadosamente detallada de las figuras que aún faltan para completar esta impresionante colección, con información valiosa para facilitar su búsqueda, e incluso enlaces directos a sitios donde podrías adquirirlas (cuando estén disponibles).

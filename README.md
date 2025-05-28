@@ -41,6 +41,8 @@ cd DEV.F_Proyecto_Modulo1
 ## ELEMENTOS UTILIZADOS
 En este proyecto se utilizó exclusivamente `HTML` para estructurar la página.
 
+A continuación se presenta un resumen total de las etiquetas HTML utilizadas dentro del proyecto.
+
 Estructura básica:
 `<!DOCTYPE html>`
 `<html>`

@@ -22,7 +22,7 @@ Se debe aplicar los conocimientos para crear y publicar una página web básica 
 * **Control de Versiones:** usar git para controlar las versiones de tu código durante el desarrollo del proyecto.
 * **Repositorio en GitHub:** crear un repositorio en GitHub para alojar el proyecto.
 * **README.md:** incluir un archivo _README.md_ en el repositorio que describa brevemente el proyecto, sus características y cómo desplegarlo.
-* **GitHub Pages:** publicar la página web en línea utilizando _**GitHub Pages**_. Asegúrarse de que la página sea accesible y que el enlace de _**GitHub Pages**_ esté disponible en el _README.md_.
+* **GitHub Pages:** publicar la página web en línea utilizando _**GitHub Pages**_. Asegurarse de que la página sea accesible y que el enlace de _**GitHub Pages**_ esté disponible en el _README.md_.
 * **URL pública:** compartir la liga de tu repositorio creado en Github así como la URL pública de tu proyecto.
 
 ## RECOMENDACIONES

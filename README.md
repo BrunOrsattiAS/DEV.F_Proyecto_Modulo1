@@ -32,7 +32,6 @@ Se debe aplicar los conocimientos para crear y publicar una página web básica 
 * **Contenido Claro:** escribir contenido claro y conciso en los párrafos, utilizando listas para organizar la información cuando sea necesario.
 
 ## CLONAR REPOSITORIO
-
 Para clonar este repositorio ejecuta los comandos siguientes para acceder a la carpeta del proyecto
 ```
 git clone https://github.com/BrunOrsattiAS/DEV.F_Proyecto_Modulo1

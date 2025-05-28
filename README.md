@@ -1,9 +1,8 @@
-### DEV.F PROYECTO MÓDULO 1 "INTRODUCCIÓN A LA PROGRAMACIÓN"
-## AUTOR: BRUNO ALEJANDRO ORSATTI SÁNCHEZ
+# DEV.F PROYECTO MÓDULO 1 "INTRODUCCIÓN A LA PROGRAMACIÓN"
 
 Proyecto creado por [BrunOrsatti](https://github.com/BrunOrsattiAS).
 
-En este repositorio encontraras los archivos relacionados al PROYECTO 1 del Módulo "Introducción a la programación" de DEV.F.
+En este repositorio encontrarás los archivos relacionados al PROYECTO 1 del Módulo "Introducción a la programación" de DEV.F.
 
 A continuación se presentan los requisitos necesarios para este proyecto.
 
@@ -41,7 +40,7 @@ cd DEV.F_Proyecto_Modulo1
 ```
 
 ## ELEMENTOS UTILIZADOS
-En este proyecto se utilizó `HTML`
+En este proyecto se utilizó exclusivamente `HTML` para estructurar la página.
 
 ## DESCRIPCIÓN GENERAL DE LA PÁGINA WEB DEL PROYECTO
 Esta página web es un tributo al apasionante mundo del coleccionismo de Star Wars. Aquí encontrarás un espacio sencillo pero lleno de historia, donde un fanático comparte con orgullo imágenes exclusivas de su colección privada.
